@@ -1,1 +1,2 @@
-# Email-Spam-Detection-Using-Machine-Learning
+# email-spam-classifier-new
+End to end code for the email spam classifier project
